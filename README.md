@@ -16,7 +16,9 @@ Sebbene il Manifesto tracci un filo logico per lo svolgimento degli esami, è be
 - **Propedeuticità**: per svolgere l'esame `B` è **obbligatorio** aver sostenuto <underline>e superato</underline> l'esame `A`.
 - **Prerequisito**: per svolgere l'esame `B` è caldamente consigliato aver sostenuto l'esame `A`.
 
-L'unica propedeuticità presente nel Corso è quella tra `Fisica Generale` ed `Elementi di Elettromagnetismo`: prima di sostenere l'esame di `Elementi di Elettromagnetismo` bisogna aver **superato** `Fisica Generale`.
+La prima propedeuticità presente nel Corso è quella tra `Fisica Generale` ed `Elementi di Elettromagnetismo`: prima di sostenere l'esame di `Elementi di Elettromagnetismo` bisogna aver **superato** `Fisica Generale`.
+
+Un'altra propedeuticità è quella che impone di aver verbalizzato `analisi matematica` e `geometria e algebra` prima di poter verbalizzare l'esame di `matematica applicata`.
 
 Uno dei principali prerequisiti, sempre per restare nel campo della Fisica, è `Applicazioni Industriali Elettriche` con `Elementi di Elettronica` ( non a caso sono in due semestri distinti ;\) ).
 
